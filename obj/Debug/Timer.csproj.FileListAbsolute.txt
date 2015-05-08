@@ -1,0 +1,10 @@
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\bin\Debug\Timer.exe
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\bin\Debug\Timer.pdb
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.exe
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.pdb
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.TimeAnalogClock.resources
+D:\Франка\2-й курс ПМа - 22\2-й семестр\Обчислювальна Парктика\C_18\C_18_Form\Timer\Timer\obj\Debug\Timer.Timer.resources
